@@ -2,6 +2,14 @@
 Here's where i post cool stuff i made (and cool stuff still being made).
 
 I'm am an Computer Science undergraduate and am curretly looking for a job. Feel free to message me!
+          
+## 📚 Currently studying:
+
+🧠 Revisiting Machine Learning through Keggle courses and competitions! I missed plotting data haha.
+
+✍🏻 Building my personal site!
+
+🤔 Deciding my undergraduate paper...
 
 ## 🔧 Some tools i use:
 
@@ -13,15 +21,14 @@ I'm am an Computer Science undergraduate and am curretly looking for a job. Feel
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"  /> 
-          
-## 📚 Currently studying:
 
-🧠 Revisiting Machine Learning through Keggle courses and competitions! I missed plotting data haha.
+## 📈 My stats:
 
-✍🏻 Building my personal site!
+<div>
+<a href="https://github.com/LuanKrzyzaniak">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanKrzyzaniak&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-🤔 Deciding my undergraduate paper...
- 
 <!--
 **LuanKrzyzaniak/LuanKrzyzaniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
