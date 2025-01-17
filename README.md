@@ -14,6 +14,13 @@ I'm am an Computer Science undergraduate and am curretly looking for a job. Feel
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"  /> 
           
+## 📚 Currently studying:
+
+🧠 Revisiting Machine Learning through Keggle courses and competitions! I missed plotting data haha.
+
+✍🏻 Building my personal site!
+
+🤔 Deciding my undergraduate paper...
  
 <!--
 **LuanKrzyzaniak/LuanKrzyzaniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
