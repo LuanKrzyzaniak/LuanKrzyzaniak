@@ -5,7 +5,7 @@ I'm am an Computer Science undergraduate and am curretly looking for a job. Feel
           
 ## 📚 Currently studying:
 
-🧠 Revisiting Machine Learning through Keggle courses and competitions! I missed plotting data haha.
+🧠 Revisiting Machine Learning through Keggle courses and competitions! I missed data plotting haha.
 
 ✍🏻 Building my personal site!
 
