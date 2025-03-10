@@ -1,7 +1,7 @@
 ## ✨ Welcome! ✨ I'm Luan and you just found my GitHub!
 Here's where i post cool stuff i made (and cool stuff still being made).
 
-I'm am an Computer Science undergraduate and am curretly looking for a job. Feel free to message me!
+I'm a Computer Science undergraduate and am curretly looking for a job. Feel free to message me!
           
 ## 📚 Currently studying:
 
