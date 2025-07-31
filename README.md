@@ -1,5 +1,5 @@
 ## ✨ Hey there! I'm Luan 👋  
-Welcome to my GitHub profile — a place where I share the cool projects I’ve built (and the even cooler ones I’m working on).
+Welcome to my GitHub profile, the place where I share the cool projects I’ve built (and the even cooler ones I’m working on hehe)
 
 ## 💬 About me
 
@@ -17,7 +17,7 @@ Provided hardware and software support, managed Linux and Windows systems, and h
 
 ## 💡 Personal Projects
 
-- 🕹️ [**VeryCoolPong**](https://github.com/LuanKrzyzaniak/pong-python) — a modern, Python-based reinterpretation of Pong, introducing chaotic mechanics!
+- 🕹️ [**VeryCoolPong**](https://github.com/LuanKrzyzaniak/pong-python): a modern, Python-based reinterpretation of Pong, introducing chaotic mechanics!
 
 ## 🛠️ Tech I work with
 
