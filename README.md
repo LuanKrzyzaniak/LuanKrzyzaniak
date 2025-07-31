@@ -12,8 +12,8 @@ Provided hardware and software support, managed Linux and Windows systems, and h
 
 ## 📚 What I'm up to
 
-- 🧠 Working on my undergraduate thesis: **"Schema Extraction from Unstructured Legal Documents Using LLMs"**
-- ✍🏻 Designing and developing my personal website
+- Working on my undergraduate thesis: **"Schema Extraction from Unstructured Legal Documents Using LLMs"**
+- Designing and developing my personal website
 
 ## 💡 Personal Projects
 
